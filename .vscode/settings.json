@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "LL-Palindrome.C": "cpp"
+    }
+}
